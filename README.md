@@ -1,4 +1,4 @@
-[<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="th">
 <head>
   <meta charset="UTF-8" />
@@ -14,7 +14,7 @@
     }
 
     header {
-      background-color: #b71c1c;
+      background-color: #3900f6;
       color: white;
       padding: 30px 20px;
       text-align: center;
@@ -31,7 +31,7 @@
     }
 
     nav {
-      background-color: #d32f2f;
+      background-color: #ff0000;
       display: flex;
       justify-content: center;
       flex-wrap: wrap;
@@ -216,4 +216,3 @@
   </script>
 </body>
 </html>
-](https://github.com/Kuumpol/SawangKalasin57.git)
